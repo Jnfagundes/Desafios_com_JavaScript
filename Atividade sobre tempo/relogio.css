@@ -13,3 +13,11 @@ body{
     margin-left: 300px;
     margin-top: 400px;
 }
+
+#relogio{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2.5em;
+    font-weight: bold;
+    width: 200px;
+    margin-left: 320px;
+}
