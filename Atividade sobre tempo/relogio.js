@@ -20,4 +20,4 @@ function relogioDois(){/*Criando a função relogio()*/
             document.getElementById("relogio").value=horas;
         }
 
-var timer=setInterval(relogioDois,1000);
+var timer=setInterval(relogioDois,1000); /*Aqui estamos chamando a função */
